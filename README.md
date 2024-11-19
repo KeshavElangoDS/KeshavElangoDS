@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing my Master's in Data Science.<br>I'm currently working on projects related to Python - DataVisualization, Machine learning.<br>I'm interested in Machine learning related projects. <br>I have knowledge on Python , R, Java, C++, SQL.
+I am currently pursuing my Master's in Data Science.<br>I'm currently working on projects related to Python - DataVisualization, Machine learning, Deep Learning using PyTorch.<br>I'm interested in Machine learning related projects. <br>I have knowledge on Python , R, Java, C++, SQL.
 
 
 ## 🌐 Socials:
